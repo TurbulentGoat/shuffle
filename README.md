@@ -44,9 +44,13 @@
 ### Prerequisites
 
 - **Python 3.6** or higher
+- [Get Python here](https://www.python.org/downloads/)
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/TurbulentGoat/shuffle.git
-cd shuffle
+`git clone https://github.com/TurbulentGoat/shuffle.git`
+
+`cd shuffle`
+
+### **Additional Tips**
+To install the dependencies, run `pip install -r requirements.txt`
